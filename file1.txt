@@ -1,2 +1,2 @@
 file 1
-This is Paul additional line
+This is Paul and Alice  additional line
